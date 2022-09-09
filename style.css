@@ -1,0 +1,42 @@
+.border {
+    background-color: red;
+}
+
+.image {
+    display: flex;
+    justify-content: right;
+    padding: 10px;
+}
+
+.text {
+    font-size: 44px;
+    font-weight: none;
+}
+
+.color_text {
+    color: #B7C4CF;
+}
+
+.border_1 {
+    box-sizing: border-box;
+    border-left: 1px solid darkcyan;
+    border-right: 1px solid darkcyan;
+    border-bottom: 1px solid darkcyan;
+    border-top: 1px solid darkcyan;
+}
+
+.border-2 {
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.text_2 {
+    font-size: 30px;
+    color: white;
+}
+
+.text_miring {
+    font-weight: lighter;
+}
